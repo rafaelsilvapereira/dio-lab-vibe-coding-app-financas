@@ -50,8 +50,6 @@ O painel apresenta um resumo das receitas, despesas e saldo, além de gráficos 
 
 ![Painel de relatórios financeiros](docs/images/relatorios.png)
 
-> **Observação:** as imagens devem ser adicionadas à pasta `docs/images/` com os nomes indicados acima.
-
 ## 🧪 Testes realizados
 
 Durante a exploração do protótipo, foi realizado um teste de persistência das movimentações financeiras.
